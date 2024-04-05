@@ -1,7 +1,7 @@
 Hi 👋 My name is Andres Meidla
 ==============================
 
-Software Engineer
+Software Engineer and Team Lead
 -----------------
 
 I've been coding for over 15 years. Started out with C, C++ writing code for embedded systems, nowadays focusing more on full-stack development in the JS-TS ecospace.
