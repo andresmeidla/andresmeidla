@@ -6,8 +6,10 @@ Software Engineer and Team Lead
 
 I've been coding for over 15 years. Started out with C, C++ writing code for embedded systems, nowadays focusing more on full-stack development in the JS-TS ecospace.
 
-* 🌍  I'm based in Tallinn, 🇪🇪Estonia
-* 🚀  I'm currently working on [Larva.io](http://larva.io)
+* 🌍 I'm based in Tallinn, 🇪🇪Estonia
+* 🚀 I'm currently working for [Trimble](https://www.trimble.com/)
+* 🚀 Am a partner and Engineer for [Fentrica](https://www.fentrica.com/)
+
 
 ### Skills
 
